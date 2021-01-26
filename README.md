@@ -4,6 +4,7 @@
 - Matrix https://matrix.org/
 - Mesh https://mesh.im/
 - Keybase https://keybase.io/
+- Y messenger ymessenger.org/
 
 ## Decentralized Social Networks
 
